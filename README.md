@@ -7,6 +7,7 @@
 
 ## OS
 ![Debian](https://img.shields.io/badge/-Debian-303030?style=for-the-badge&logo=debian)
+![NixOS](https://img.shields.io/badge/-NixOS-303030?style=for-the-badge&logo=nixos)
 
 ## Tools
 ![VScode](https://img.shields.io/badge/-VScode-303030?style=for-the-badge&logo=visualstudiocode)
