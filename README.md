@@ -10,6 +10,4 @@
 ![NixOS](https://img.shields.io/badge/-NixOS-303030?style=for-the-badge&logo=nixos)
 
 ## Tools
-![VScode](https://img.shields.io/badge/-VScode-303030?style=for-the-badge&logo=visualstudiocode)
-![Emacs](https://img.shields.io/badge/-Neovim-303030?style=for-the-badge&logo=neovim)
 ![Docker](https://img.shields.io/badge/-Docker-303030?style=for-the-badge&logo=docker)
