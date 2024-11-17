@@ -1,7 +1,9 @@
 # alexdenkk
 
-![Go](https://img.shields.io/badge/-Go-2b2b2b?style=for-the-badge&logo=go)
-![Shell](https://img.shields.io/badge/-Shell-2b2b2b?style=for-the-badge&logo=zsh)
-![Docker](https://img.shields.io/badge/-Docker-2b2b2b?style=for-the-badge&logo=docker)
-![Alpine](https://img.shields.io/badge/-Alpine-2b2b2b?style=for-the-badge&logo=alpinelinux)
-![Debian](https://img.shields.io/badge/-Debian-2b2b2b?style=for-the-badge&logo=debian)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
